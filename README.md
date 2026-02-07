@@ -22,6 +22,14 @@ sudo apt update
 sudo apt install todolist-cli
 ```
 
+4. All together:
+
+```
+echo "deb [trusted=yes] https://HimC29.github.io/todolist-cli-deb stable main" | sudo tee /etc/apt/sources.list.d/todolist-cli.list
+sudo apt update
+sudo apt install todolist-cli
+```
+
 ## License
 
 MIT License
