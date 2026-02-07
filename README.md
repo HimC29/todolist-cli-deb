@@ -1,6 +1,6 @@
 # todolist-cli
 
-[Source code](github.com/HimC29/todolist-cli)
+[Source code](https://github.com/HimC29/todolist-cli)
 
 ## Installation
 
